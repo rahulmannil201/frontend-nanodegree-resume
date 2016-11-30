@@ -68,19 +68,20 @@ h5 {
   color: #999;
   line-height: 16px;
   float: left;
+  border: : 5px;
 }
 
 .location-text {
   font-style: italic;
   font-size: 14px;
-  color: #999;
+  color: #1c4bb3;
   line-height: 16px;
   float: right;
 
 }
 
 p {
-  font-size: 14px;
+  font-size: 18px;
   color: #333;
   line-height: 21px;
 }
@@ -165,6 +166,7 @@ ul {
 
 img {
   padding: 10px;
+  margin: 10px;
 }
 
 span {
